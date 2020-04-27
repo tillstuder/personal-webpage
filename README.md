@@ -4,7 +4,7 @@
 
 ## ToDo
 
-- [X] CD/CI setup
+- [] CD/CI setup
 - [] Decide on which Framework (Angular, React, Vue)
 - [] What are my Values?
 - [] About YOU Section
