@@ -1,4 +1,4 @@
-<img src="./images/logo.png" alt="logo" hight="200"/>
+<img src="./images/logo.png" alt="logo" height="200"/>
 
 # [personal-webpage](https://TillStuder.ch/)
 
