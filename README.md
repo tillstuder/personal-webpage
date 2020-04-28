@@ -1,4 +1,5 @@
-<img src="./images/logo.png" alt="logo" width="200"/>
+<img src="./images/logo.png" alt="logo" hight="200"/>
+
 # [personal-webpage](https://TillStuder.ch/)
 
 ## ToDo
