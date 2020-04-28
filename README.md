@@ -1,5 +1,4 @@
-![GitHub Logo](/images/logo.png =100x20)
-
+<img src="./images/logo.png" alt="logo" width="200"/>
 # [personal-webpage](https://TillStuder.ch/)
 
 ## ToDo
