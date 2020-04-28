@@ -5,7 +5,7 @@
 ## ToDo
 
 - [X] CD/CI setup
-- [] Decide on which Framework (Angular, React, Vue)
+- [X] Decide on which Framework (Angular, React, Vue)
 - [] What are my Values?
 - [] About YOU Section
 - [] Private Confluence Wiki
