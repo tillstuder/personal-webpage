@@ -1,4 +1,4 @@
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/images/logo.png =100x20)
 
 # [personal-webpage](https://TillStuder.ch/)
 
