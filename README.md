@@ -5,7 +5,8 @@
 ## ToDo
 
 - [X] CD/CI setup
-- [X] Decide on which Framework (Angular, React, Vue)
+- [X] Decide on which Framework (**Angular**, React, Vue)
+- [] Tour of Heroes (https://angular.io/tutorial)
 - [] What are my Values?
 - [] About YOU Section
 - [] Private Confluence Wiki
