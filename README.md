@@ -7,6 +7,7 @@
 - [X] CD/CI setup
 - [X] Decide on which Framework (**Angular**, React, Vue)
 - [X] Tour of Heroes (https://angular.io/tutorial)
+- [X] Logo
 - [] About ME Section
 - [] About YOU Section
 - [] My projects (three.js)
