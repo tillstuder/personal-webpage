@@ -11,6 +11,7 @@ export class NightstandThreejsComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
+    // Source: https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene
     var scene = new THREE.Scene();
     var camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
 
@@ -19,7 +20,7 @@ export class NightstandThreejsComponent implements OnInit {
     document.body.appendChild(renderer.domElement);
 
     var geometry = new THREE.BoxGeometry(1, 1, 1);
-    var material = new THREE.MeshBasicMaterial({ color: 0x00ff00 });
+    var material = new THREE.MeshBasicMaterial({ color: 0x0000FF });
     var cube = new THREE.Mesh(geometry, material);
     scene.add(cube);
 
