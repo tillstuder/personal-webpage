@@ -20,7 +20,7 @@ export class NightstandThreejsComponent implements OnInit {
     document.body.appendChild(renderer.domElement);
 
     var geometry = new THREE.BoxGeometry(1, 1, 1);
-    var material = new THREE.MeshBasicMaterial({ color: 0x0000FF });
+    var material = new THREE.MeshBasicMaterial({ color: 0x0000FF , wireframe: true});
     var cube = new THREE.Mesh(geometry, material);
     scene.add(cube);
 
