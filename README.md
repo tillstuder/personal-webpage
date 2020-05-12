@@ -1,7 +1,4 @@
-<img src="./src/assets/logo.svg" alt="logo"/>
-
 # [personal-webpage](https://TillStuder.ch/)
-
 ## ToDo
 
 - [X] CD/CI setup
