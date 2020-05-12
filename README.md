@@ -11,7 +11,7 @@
 - [] SEO
 - [] .well-known folder (security.txt)
 
-Ideas:
+## Ideas
 - [] Implement Server Side Rendering with [Angular Universal](https://angular.io/guide/universal)
 - [] About YOU Section (use some analytics API)
 - [] Private Confluence Wiki
