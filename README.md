@@ -8,8 +8,14 @@
 - [X] Decide on which Framework (**Angular**, React, Vue)
 - [X] Tour of Heroes (https://angular.io/tutorial)
 - [X] Logo
-- [] About ME Section
-- [] About YOU Section
-- [] My projects (three.js)
+- [] Nightstand (three.js)
+- [] About ME Section (possibly LinkedIn API)
+- [] CSS pretty-up
+- [] SEO
+- [] .well-known folder (security.txt)
+
+Ideas:
+- [] Implement Server Side Rendering with [Angular Universal](https://angular.io/guide/universal)
+- [] About YOU Section (use some analytics API)
 - [] Private Confluence Wiki
-- [] Goal Tracker with Nort Star, Goals, Habits, Mindsets (similar to Mindfulsuite) 
+- [] Goal Tracker with North Star, Goals, Habits, Mindsets (similar to Mindfulsuite) 
