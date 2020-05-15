@@ -1,4 +1,4 @@
-# [personal-webpage](https://TillStuder.ch/)
+# [personal-webpage](https://TillStuder.com/)
 ## ToDo
 
 - [X] CD/CI setup
