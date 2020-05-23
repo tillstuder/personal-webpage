@@ -7,6 +7,7 @@ import { PageNotFoundComponent } from './page-not-found/page-not-found.component
 import { HomePageComponent } from './home-page/home-page.component';
 import { NightstandThreejsComponent } from './nightstand-threejs/nightstand-threejs.component';
 import { NavBarComponent } from './nav-bar/nav-bar.component';
+import { ProjectCardsComponent } from './project-cards/project-cards.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { NavBarComponent } from './nav-bar/nav-bar.component';
     PageNotFoundComponent,
     HomePageComponent,
     NightstandThreejsComponent,
-    NavBarComponent
+    NavBarComponent,
+    ProjectCardsComponent
   ],
   imports: [
     BrowserModule,

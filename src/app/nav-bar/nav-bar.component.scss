@@ -59,7 +59,7 @@ header {
   flex-direction: column;
   justify-content: space-between;
   visibility: hidden;
-  clip-path: circle(var(--radius) at calc(100% - 55px) 47px);
+  clip-path: circle(var(--radius) at calc(100% - 33px) 33px);
 }
 
 .header__nav[data-active="true"] {
