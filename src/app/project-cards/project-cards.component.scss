@@ -2,7 +2,6 @@ $highlight: #5bc0eb;
 $darkhighlight: #fde74c;
 
 .wrapper {
-  padding: 50px;
   display: flex;
   flex-flow: wrap;
   font-family: "Ubuntu", sans-serif;
@@ -18,8 +17,8 @@ $darkhighlight: #fde74c;
 
   .card {
     font-weight: bold;
-    position: relative;
     width: 100%;
+    position: relative;
 
     a {
       padding: 30px;
