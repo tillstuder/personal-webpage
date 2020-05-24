@@ -6,7 +6,7 @@
   grid-template-columns: 1fr 5fr 1fr;
   grid-template-areas: 
   "title-message title-message title-message"
-  ". middle-space ."
+  "middle-space middle-space middle-space"
   ;
   justify-items: center;
 }
@@ -20,6 +20,7 @@
 //   background-color: green;
   grid-area: middle-space;
   display: flex;
+  max-width: 1200px;
 }
 
 
