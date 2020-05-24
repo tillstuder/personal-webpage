@@ -9,6 +9,7 @@
   "middle-space middle-space middle-space"
   ;
   justify-items: center;
+  padding-top: 10px;
 }
 
 .title-message {
@@ -36,13 +37,9 @@
     font-weight: normal;
   }
 
-  .bold {
-    font-weight: bold;
-    padding-bottom: 10px;
-  }
-
   h2 {
     color: #696969;
     font-size: 18px;
+    padding-top: 10px;
   }
 }
