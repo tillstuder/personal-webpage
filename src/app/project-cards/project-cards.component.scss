@@ -1,5 +1,5 @@
-$highlight: #5bc0eb;
-$darkhighlight: #fde74c;
+$highlight: #8000ff;
+$darkhighlight: #ffff00;
 
 .wrapper {
   display: flex;
@@ -45,11 +45,7 @@ $darkhighlight: #fde74c;
       }
 
       .card--display {
-        i {
-          font-size: 60px;
-          margin-top: 200px;
-        }
-
+ 
         h2 {
           margin: 20px 0 0;
         }
