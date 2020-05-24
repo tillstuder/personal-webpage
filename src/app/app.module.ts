@@ -8,6 +8,7 @@ import { HomePageComponent } from './home-page/home-page.component';
 import { NightstandThreejsComponent } from './nightstand-threejs/nightstand-threejs.component';
 import { NavBarComponent } from './nav-bar/nav-bar.component';
 import { ProjectCardsComponent } from './project-cards/project-cards.component';
+import { PageForbiddenComponent } from './page-forbidden/page-forbidden.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { ProjectCardsComponent } from './project-cards/project-cards.component';
     HomePageComponent,
     NightstandThreejsComponent,
     NavBarComponent,
-    ProjectCardsComponent
+    ProjectCardsComponent,
+    PageForbiddenComponent
   ],
   imports: [
     BrowserModule,
