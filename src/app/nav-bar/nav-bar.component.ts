@@ -14,7 +14,7 @@ export class NavBarComponent implements OnInit {
       const actionBtnEl = actionBtn;
       const revealBlockEl = revealBlock;
       const { onRevealEnd, initialPosition } = config;
-      const initialRadius = 25;
+      const initialRadius = 1;
 
       let isMenuOpen = false;
       let reqId = null;
@@ -22,7 +22,7 @@ export class NavBarComponent implements OnInit {
       let elementRadius = targetRadius;
 
       const initRevealBlock = () => {
-        revealBlock.style.clipPath = 'circle(var(--radius) at calc(100% - 33px) 33px)';
+        revealBlock.style.clipPath = 'circle(var(--radius) at calc(100% - -1px) -1px)';
         revealBlockEl.style.setProperty('--radius', `${initialRadius}px`);
         revealBlockEl.setAttribute('data-active', true);
       };
