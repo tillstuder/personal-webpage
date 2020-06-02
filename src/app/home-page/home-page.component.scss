@@ -1,0 +1,45 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+
+// Grid stuff
+.wrapper {
+  display: grid;
+  grid-template-columns: 1fr 5fr 1fr;
+  grid-template-areas: 
+  "title-message title-message title-message"
+  "middle-space middle-space middle-space"
+  ;
+  justify-items: center;
+}
+
+.title-message {
+//   background-color: darkred;
+  grid-area: title-message;
+  padding: 30px;
+}
+
+.cards {
+//   background-color: green;
+  grid-area: middle-space;
+  display: flex;
+  max-width: 1200px;
+}
+
+
+// Font stuff
+.title-message {
+  h1,
+  h2 {
+    margin: 0;
+    // width: 100%;
+    font-family: "Montserrat", sans-serif;
+    color: #222;
+    font-size: 48px;
+    font-weight: normal;
+  }
+
+  h2 {
+    color: #696969;
+    font-size: 18px;
+    padding-top: 10px;
+  }
+}
