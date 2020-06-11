@@ -17,3 +17,4 @@
 - [] About YOU Section (use some analytics API)
 - [] Private Confluence Wiki
 - [] Goal Tracker with North Star, Goals, Habits, Mindsets (similar to Mindfulsuite) 
+- [] Add ToDo app with Eisenhower matrix (urgent / important)
